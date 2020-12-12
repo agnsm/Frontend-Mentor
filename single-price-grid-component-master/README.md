@@ -1,5 +1,7 @@
 # Frontend Mentor - Single Price Grid Component
 
+http://agnsm.epizy.com/single-price-grid-component
+
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
